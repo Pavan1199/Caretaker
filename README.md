@@ -1,4 +1,19 @@
+# A React App Example
 
+## Overview
+
+Before we dive in and start working on specific parts of a React project, let's
+take a look at a simple React app so we can understand it at a high level.
+
+In this lesson, we will start with a basic React app, examine the default
+directory structure and gain a better understanding of how these apps are built.
+
+
+## Objectives
+
+- See an example of a basic React app
+- Gain an overview of how the files interact
+- Practice writing your first React component
 
 #### A Note For In-Browser IDE Users
 
